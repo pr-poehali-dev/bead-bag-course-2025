@@ -63,11 +63,11 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				creative: {
-					purple: '#8B5CF6',
-					magenta: '#D946EF',
-					orange: '#F97316',
-					blue: '#0EA5E9',
-					pink: '#EC4899'
+					purple: '#8B4513',
+					magenta: '#D2691E',
+					orange: '#CD5C5C',
+					blue: '#A0522D',
+					pink: '#DC143C'
 				}
 			},
 			borderRadius: {
